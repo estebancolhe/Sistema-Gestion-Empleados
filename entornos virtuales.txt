@@ -1,0 +1,20 @@
+desdee CMD
+
+crear - python -m venv nombre_entorno
+activar - entrar a la del entorno virtual, luego a Scripts y ejecutar "activate"
+desactivar - entrar a la del entorno virtual, luego a Scripts y ejecutar "deactivate"
+
+entornos creados
+prueba - ruta:C:\Users\Esteban Henao\Documents\udemy_python_django_rest\entornos\prueba
+empleados - ruta:C:\Users\Esteban Henao\Documents\udemy_python_django_rest\entornos\empleados
+
+informacion bases de datos postgresql
+contrasenha:FutbolTotal1*
+usuario de la BD: esteban_henao
+nombre db: db_empleado
+contrasenha BD:FutbolTotal1*
+
+super usuario
+usuario:esteban_henao
+email:esteban.c@polygon.us
+password:FutbolTotal1*
