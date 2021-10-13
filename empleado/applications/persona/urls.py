@@ -7,7 +7,7 @@ from . import views
 app_name = "persona_app"
 
 urlpatterns = [
-    path('/', views.InicioView.as_view(), name='inicio'),
+    path('', views.InicioView.as_view(), name='inicio'),
     path('listar-todo-empleados/', views.ListAllEmpleado.as_view(), name='empleados_all'),
     path('lista-by-area/<shortname>', views.ListByAreaEmpleado.as_view(), name='empleados_area'),
     path('lista-empleados-admin/', views.ListEmpleadosAdmin.as_view(), name='empleados_admin'),
