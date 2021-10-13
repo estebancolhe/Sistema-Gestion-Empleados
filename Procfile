@@ -1,0 +1,1 @@
+web: gunicorn sistema_gestion_de_empleados.wsgi --log-file -
